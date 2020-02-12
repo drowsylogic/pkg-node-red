@@ -18,5 +18,5 @@ deploy:
   file: release/*
   skip_cleanup: true
   on:
-    repo: imZack/pkg-node-red
+    repo: drowsylogic/pkg-node-red
     tags: true
